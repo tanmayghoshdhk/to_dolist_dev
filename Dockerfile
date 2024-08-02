@@ -1,5 +1,5 @@
 # Use the official Nginx image
-FROM nginx:alpine
+FROM nginx
 
 # Copy the HTML and CSS files into the container
 COPY index.html /usr/share/nginx/html/
