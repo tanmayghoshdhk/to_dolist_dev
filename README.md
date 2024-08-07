@@ -1,1 +1,1 @@
-This repo is rnd for jenkins.
+This repo is for Testing purposes.
